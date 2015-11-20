@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.miniGame.managers.data.FileManager"/>
+    <classEntry path="com.miniGame.managers.popup.PopupManager"/>
+    <classEntry path="com.miniGame.managers.debug.DebugManager"/>
+    <classEntry path="com.miniGame.managers.math.MathUtil"/>
+    <classEntry path="com.miniGame.managers.action.ActionManager"/>
+    <classEntry path="com.miniGame.managers.system.SystemUtil"/>
+    <classEntry path="com.miniGame.controls.ArtNumber"/>
+    <classEntry path="com.miniGame.managers.action.IAction"/>
+    <classEntry path="com.miniGame.managers.action.ScaleAction"/>
+    <classEntry path="com.miniGame.managers.http.HttpManager"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

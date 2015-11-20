@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.miniGame.view.login.SettingPanel"/>
+    <classEntry path="com.miniGame.controls.SoundButton"/>
+    <classEntry path="com.miniGame.managers.ane.AneManager"/>
+    <classEntry path="com.miniGame.managers.ane.GetUdid"/>
+    <classEntry path="com.miniGame.managers.statistics.StatisticsManager"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
